@@ -3,6 +3,7 @@
 <li><b>Name:</b> Andy</li>
 <li><b>Hobbies:</b>  Coding ⌨️, Tech stuff ⚙️, Game tools 🎮</li>
 <li><b>Website:</b>  WIP ⚒️</li>
+<li><b>Currently working on:</b> Surrender at 15 (lol news blog)</li>
 </ul>
 
 #
